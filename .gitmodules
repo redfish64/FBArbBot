@@ -1,0 +1,3 @@
+[submodule "fbmessenger-api-hs"]
+	path = fbmessenger-api-hs
+	url = https://github.com/mseri/fbmessenger-api-hs
